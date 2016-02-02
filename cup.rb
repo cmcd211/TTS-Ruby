@@ -37,6 +37,6 @@ else
 end
 
 def beer_bong
-  puts "chug!"
+  puts "chug!!!!!"
   @drink_amount = 0
 end
